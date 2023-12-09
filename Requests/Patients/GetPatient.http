@@ -1,0 +1,2 @@
+@id= e7927273-2366-4c62-ad23-1bb5128e4cbc
+GET http://localhost:5037/patients/{{id}}

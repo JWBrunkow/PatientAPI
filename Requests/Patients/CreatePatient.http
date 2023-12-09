@@ -1,0 +1,19 @@
+POST http://localhost:5037/patients
+Content-Type: application/json
+
+{
+    "Name": "Bugs Bunny",
+    "Description": "A wabbit",
+    "AdmissionDateTime": "2023-12-01T09:00:00",
+    "DischargeDateTime": "2023-12-02T06:00:00",
+    "Symptoms": [
+        "Large anvil-shaped mark on head",
+        "Headache",
+        "Can see in the dark"
+    ],
+    "Outcomes": [
+        "Anvil mark gone",
+        "headache gone",
+        "Can still see in the dark"
+    ]
+}

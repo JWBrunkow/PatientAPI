@@ -1,0 +1,20 @@
+@id= e7927273-2366-4c62-ad23-1bb5128e4cbc
+PUT http://localhost:5037/patients/{{id}}
+Content-Type: application/json
+
+{
+    "Name": "Daffy Duck",
+    "Description": "A wabbit",
+    "AdmissionDateTime": "2023-12-01T09:00:00",
+    "DischargeDateTime": "2023-12-02T06:00:00",
+    "Symptoms": [
+        "Large anvil-shaped mark on head",
+        "Headache",
+        "Can see in the dark"
+    ],
+    "Outcomes": [
+        "Anvil mark gone",
+        "headache gone",
+        "Can still see in the dark"
+    ]
+}

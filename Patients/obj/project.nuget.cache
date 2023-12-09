@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/s/1i/Vlz+uYbAQaIyJgNFuVvkQnySDy/d0VycpG/LEkhmKlmGF7d3ExIObFQEY2F62Ut/kBYp6LGayL93XZbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\james\\CSharp\\PatientsProject\\Patients\\Patients.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\james\\.nuget\\packages\\erroror\\1.3.0\\erroror.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
